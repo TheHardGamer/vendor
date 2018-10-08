@@ -225,6 +225,7 @@ PRODUCT_PACKAGES += \
     SnapdragonMusic \
     LatinIME \
     OmniJaws \
+    WeatherIcons \
     OmniStyle \
     LiveWallpapersPicker \
     SoundPickerPrebuilt \
